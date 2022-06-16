@@ -1,0 +1,19 @@
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+}
+.msg-display {
+    height: 90%;
+}
+.msg-input {
+    width:90%;
+}
+.msg-send {
+    width: 8%;
+}
+.msg-edit {
+    display: flex;
+    justify-content: space-around;
+}
